@@ -1,0 +1,13 @@
+#desc{
+  font-family: monospace;
+  background-color: black;
+  color: white;
+  align-content: center;
+  align-self: center;
+  align-items: center
+}
+body{
+  background-color: rgb(5, 49, 54);
+  color: blanchedalmond;
+  font-family: system-ui
+}
